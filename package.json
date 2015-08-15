@@ -1,22 +1,15 @@
 {
-  "name": "buckets-heroku-skeleton",
-  "version": "0.0.2",
-  "description": "A skeleton project for Buckets.",
+  "name": "doctor-marketing",
+  "version": "1.0.0",
+  "description": "",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "main": "index.js",
-  "author": "David Kaneda",
+  "author": "Marco Barría",
   "license": "MIT",
   "dependencies": {
-    "buckets": "0.0.8"
-  },
-  "homepage": "http://buckets.io",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/bucketsio/skeleton.git"
-  },
-  "engines": {
-    "node": "0.10.x"
+    "buckets": "0.0.8",
+    "jquery": "^2.1.4"
   }
 }

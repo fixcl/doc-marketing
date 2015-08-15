@@ -1,6 +1,6 @@
 {
-  "name": "Buckets",
-  "description": "Buckets is simple, friendly CMS built with Node.js.",
+  "name": "Doctor Marketing",
+  "description": "",
   "keywords": [
     "cms",
     "node",
@@ -8,8 +8,6 @@
     "javascript",
     "mongo"
   ],
-  "website": "http://buckets.io",
-  "logo": "http://buckets.io/images/buckets-logo.svg",
   "success_url": "/admin/install",
   "env": {
     "NODE_ENV": "production"
